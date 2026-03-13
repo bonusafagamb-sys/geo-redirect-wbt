@@ -5,8 +5,8 @@ export default function handler(req, res) {
   
   // ⚠️ ЗАМЕНИТЕ ЭТИ ССЫЛКИ НА СВОИ:
   const links = {
-    'KZ': 'https://promo-7kpartners.com/l/694c45e6c7ac5658a70cd6a2',
-    'RU': 'https://promo-7kpartners.com/l/694c45e6c7ac5658a70cd6a2'
+    'KZ': 'https://offertowin.com/l/694c45e6c7ac5658a70cd6a2?sub_id=kukish&sub_id_2=kukish&sub_id_3={sub_id_3}&sub_id_4={sub_id_4}&sub_id_5={sub_id_5}',
+    'RU': 'https://offertowin.com/l/694c45e6c7ac5658a70cd6a2?sub_id=kukish&sub_id_2=kukish&sub_id_3={sub_id_3}&sub_id_4={sub_id_4}&sub_id_5={sub_id_5}'
   };
   
   // Ссылка по умолчанию
