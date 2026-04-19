@@ -11,7 +11,7 @@ export default function handler(req, res) {
   };
   
   // Ссылка по умолчанию
-  const defaultUrl = 'https://bonuspllus.site';
+  const defaultUrl = 'https://fishincatch.site';
   
   // Выбираем куда редиректить
   const targetUrl = links[country] || defaultUrl;
